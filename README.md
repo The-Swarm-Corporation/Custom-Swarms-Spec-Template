@@ -1,52 +1,76 @@
-
-# Swarms-Example-1-Click-Template
+# 🚀 Custom Swarms Specification Template
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/agora-999382051935506503) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyegomez3242) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kye-g-38759a207/) [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyegomezb)
 
+[![GitHub stars](https://img.shields.io/github/stars/The-Swarm-Corporation/Custom-Swarms-Spec-Template?style=flat-square)](https://github.com/The-Swarm-Corporation/Custom-Swarms-Spec-Template/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 [![GitHub stars](https://img.shields.io/github/stars/The-Swarm-Corporation/Legal-Swarm-Template?style=social)](https://github.com/The-Swarm-Corporation/Legal-Swarm-Template)
 [![Swarms Framework](https://img.shields.io/badge/Built%20with-Swarms-blue)](https://github.com/kyegomez/swarms)
 
+Build your dream AI agent swarm with enterprise-grade reliability and scalability. This repository contains our official specification template for custom swarm development using the powerful [Swarms Framework](https://github.com/kyegomez/swarms).
 
+## 💫 Why Custom Swarms?
 
-## 🚀 Quick Start
+Transform your business operations with intelligent agent swarms tailored to your specific needs:
 
-```bash
-# Clone the repository
-git clone https://github.com/The-Swarm-Corporation/Swarms-Example-1-Click-Template.git
+- 🤖 **Multi-Agent Systems**: Deploy coordinated teams of AI agents
+- 🔄 **Complex Workflows**: Automate sophisticated business processes
+- 🎯 **Specialized Solutions**: Built precisely for your use case
+- 🛡️ **Enterprise Ready**: Production-grade reliability and security
+- ⚡ **High Performance**: Built on the cutting-edge Swarms Framework
 
-# Install requirements
-pip3 install -r requirements.txt
+## 📋 How to Request a Custom Swarm
 
-# Set your task in the .env file or pass it in the yaml file on the bottom `task:`
-export WORKSPACE_DIR="agent_workspace" 
-export GROQ_API_KEY=""
+1. 📥 **Download the Template**: Get our [specification template](./swarm-spec-template.md)
+2. ✍️ **Fill It Out**: Provide detailed information about your requirements
+3. 📧 **Submit**: Send your completed spec to [kye@swarms.world](mailto:kye@swarms.world)
 
-# Run the swarm
-python3 main.py
-```
+## 💎 Investment Tiers
 
+Our custom swarm development starts at **$40,000** and scales based on:
 
-## 🛠 Built With
+- Number of agents required
+- Complexity of tools and integrations
+- Data processing requirements
+- Deployment infrastructure needs
 
-- [Swarms Framework](https://github.com/kyegomez/swarms)
-- Python 3.10+
-- GROQ API Key or you can change it to use any model from [Swarm Models](https://github.com/The-Swarm-Corporation/swarm-models)
+## 🛠️ Built with Swarms Framework
 
-## 📬 Contact
+Your custom swarm will be built using the [Swarms Framework](https://github.com/kyegomez/swarms), offering:
 
-Questions? Reach out:
-- Twitter: [@kyegomez](https://twitter.com/kyegomez)
-- Email: kye@swarms.world
+### Key Features:
+- 🔗 Seamless agent coordination
+- 🔌 Easy tool integration
+- 📊 Built-in monitoring
+- 🚀 Scalable architecture
+- 🛡️ Enterprise security
+
+## 🤝 Let's Build Together
+
+1. Join our [Discord Community](https://discord.gg/agora-999382051935506503)
+2. Star the [Swarms Framework](https://github.com/kyegomez/swarms)
+3. Submit your specification
+
+## 🌟 Success Stories
+
+Our custom swarms are powering:
+- Enterprise data processing pipelines
+- Automated customer service systems
+- Complex research automation
+- Business intelligence platforms
+
+## 📞 Contact
+
+- Email: [kye@swarms.world](mailto:kye@swarms.world)
+- Discord: [Join our community](https://discord.gg/agora-999382051935506503)
+
+## ⚖️ License
+
+This template is MIT licensed. Your custom swarm implementation will include its own licensing terms.
 
 ---
 
-## Want Real-Time Assistance?
-
-[Book a call with here for real-time assistance:](https://cal.com/swarms/swarms-onboarding-session)
-
----
-
-⭐ Star us on GitHub if this project helped you!
-
-Built with ♥ using [Swarms Framework](https://github.com/kyegomez/swarms)
+<p align="center">
+  <i>Transform your business with intelligent agent swarms.</i>
+</p>
