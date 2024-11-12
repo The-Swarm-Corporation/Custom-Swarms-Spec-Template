@@ -22,7 +22,7 @@ Transform your business operations with intelligent agent swarms tailored to you
 
 ## 📋 How to Request a Custom Swarm
 
-1. 📥 **Download the Template**: Get our [specification template](./swarm-spec-template.md)
+1. 📥 **Download the Template**: Get our [specification template](./TEMPLATE.pdf)
 2. ✍️ **Fill It Out**: Provide detailed information about your requirements
 3. 📧 **Submit**: Send your completed spec to [kye@swarms.world](mailto:kye@swarms.world)
 4.  **Book a Strategy Session**: Let's discuss your custom swarm implementation: [CLICK HERE](https://cal.com/swarms/swarms-strategy-session?)
@@ -51,7 +51,7 @@ Your custom swarm will be built using the [Swarms Framework](https://github.com/
 
 1. Join our [Discord Community](https://discord.gg/agora-999382051935506503)
 2. Star the [Swarms Framework](https://github.com/kyegomez/swarms)
-3. Submit your specification 
+3. Submit your specification [specification template](./TEMPLATE.pdf)
 4. Book a Strategy Session to discuss your custom swarm implementation: [CLICK HERE](https://cal.com/swarms/swarms-strategy-session?)
 
 ## 🌟 Success Stories
@@ -66,6 +66,7 @@ Our custom swarms are powering:
 
 - Email: [kye@swarms.world](mailto:kye@swarms.world)
 - Discord: [Join our community](https://discord.gg/agora-999382051935506503)
+- Book a call: [CLICK](https://cal.com/swarms/swarms-strategy-session?)
 
 ## ⚖️ License
 
